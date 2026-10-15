@@ -3,42 +3,6 @@
   color: "#FAAFBE"
   description: "S-52"
 
-- name: "S-57"
-  color: "#FFA500"
-  description: "S-57"
-
-- name: "S-58"
-  color: "#FF0000"
-  description: "S-58"
-
-- name: "S-62"
-  color: "#008000"
-  description: "S-62"
-
-- name: "S-63"
-  color: "#0000FF"
-  description: "S-63"
-
-- name: "S-64"
-  color: "#800080"
-  description: "S-64"
-
-- name: "S-65"
-  color: "#000000"
-  description: "S-65"
-
-- name: "S-66"
-  color: "#A52A2A"
-  description: "S-66"
-
-- name: "S-101"
-  color: "#00FF00"
-  description: "S-101"
-
-- name: "S-158:101"
-  color: "#FDD017"
-  description: "S-158:101"
-
 - name: "Main Documentation"
   color: "#00FFFF"
   description: "Main Document Updates"
@@ -47,21 +11,9 @@
   color: "FFFF00"
   description: "Annex Updates"
 
-- name: "Data Model"
+- name: "Presentation Library"
   color: "DEB887"
-  description: "Issues impacting the UML data model"
-
-- name: "FC"
-  color: "#7FFF00"
-  description: "S-101 Feature Catalogue"
-
-- name: "PC"
-  color: "#F535AA"
-  description: "S-101 Portrayal Catalogue"
-
-- name: "Schema"
-  color: "#808000"
-  description: "Schema adjusutments impacting the .xsd"
+  description: "Issues impacting the Presentation Library"
 
 - name: "Extension"
   color: "#FF0000"
