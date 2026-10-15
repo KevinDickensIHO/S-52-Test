@@ -25,3 +25,15 @@ This list of approved labels is located here:
 🟨 Correction | Substantive semantic changes that rectify factual errors or address practical implementation anomalies within existing specifications.
 
 🟦 Clarification | Non-substantive semantic changes that remove ambiguity, correct grammatical/spelling errors, or update cross-references.
+
+# Structure
+Folders for the following
+
+Main | Main Document
+
+Annex | Annex Documents
+
+Publication | Metanorma Publication 
+
+Presentation Library | S-52 Presentation File changes only
+
